@@ -1,0 +1,26 @@
+//===================================
+//		Variables & Mixins
+//===================================
+@import '../dev/variables';
+@import '../dev/mixins';
+
+/*===================================
+		Base styles
+===================================*/
+@import '../base/fonts';
+@import '../base/normalize';
+@import '../base/default';
+
+/*===================================
+		Template
+===================================*/
+@import '../template/page';
+@import '../template/header';
+@import '../template/body';
+@import '../template/footer';
+
+/*===================================
+		Blocks
+===================================*/
+@import '../blocks/logo';
+@import '../blocks/button';

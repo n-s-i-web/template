@@ -1,0 +1,11 @@
+{
+  "name": "example-project",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-compass": "latest",
+    "grunt-notify": "latest",
+    "grunt-autoprefixer": "latest"
+  }
+}
